@@ -1,0 +1,9 @@
+name: HQZPlus
+main: ru.progrm_jarvis.hq9plus.HQ9PlusPlugin
+version: 0.1
+author: PROgrm_JARvis (JARvis (Пётр) PROgrammer)
+commands:
+  hq9plus:
+    description: Compile and perform HQ9+ script
+    aliases: [hq9pluscompile, compilehq9plus]
+    permission: hq9plus.compile
